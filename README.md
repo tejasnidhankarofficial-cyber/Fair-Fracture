@@ -237,30 +237,15 @@ fair-fracture/
 
 ## Team
 
-| Name | Department | Email |
+| Name | Email |
 |---|---|---|
-| Agnim Gupta | Computer Science | agupta57@stevens.edu |
-| Jay Gajjar | Mathematical Science | jgajjar@stevens.edu |
-| Tejas Nidhankar | Electrical & Computer Engineering | tnidhank@stevens.edu |
+| Agnim Gupta | agupta57@stevens.edu |
+| Jay Gajjar | jgajjar@stevens.edu |
+| Tejas Nidhankar | tnidhank@stevens.edu |
 
 Stevens Institute of Technology, Hoboken, NJ
 
----
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@article{fair-fracture-2024,
-  title   = {Fair-Fracture: A YOLOv8 and U-Net Framework for Bone Fracture Diagnosis},
-  author  = {Gupta, Agnim and Gajjar, Jay and Nidhankar, Tejas},
-  school  = {Stevens Institute of Technology},
-  year    = {2024}
-}
-```
-
----
 
 ## Acknowledgements
 
